@@ -4,16 +4,6 @@
 
 **Contact Information**
 
-| Syntax | Description |
-| ----------- | ----------- |
-| firstName | Max |
-| lastName | Eberlein |
-
-```
-  "firstName": "Max",
-  "lastName": "Eberlein",
-  "age": 21
-  "E-Mail": Max.Eberlein@haw-hamburg.de
-```
+> Max Eberlein
 
 [this](https://www.youtube.com/watch?v=i2U50K13-Hg&ab_channel=darkc3po) is my favorite video ever 😄
