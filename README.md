@@ -3,6 +3,12 @@
 ---
 
 **Contact Information**
+
+| Syntax | Description |
+| ----------- | ----------- |
+| firstName | Max |
+| lastName | Eberlein |
+
 ```
   "firstName": "Max",
   "lastName": "Eberlein",
